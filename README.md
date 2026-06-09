@@ -51,7 +51,7 @@ Developer yang memiliki kompetensi kuat dalam pengembangan aplikasi Web (Full-St
 
 **Pelatihan Spesialisasi AI & Data Science** | _April 2026_
 
-- **Belajar Penggunaan Generative AI:** Menguasai teknik Prompt Engineering yang adaptif, etika penggunaan AI, serta strategi memaksimalkan kapabilitas Large Language Model (LLM) dan Gemini untuk produktivitas kerja.
+- **Penggunaan Generative AI:** Menguasai teknik Prompt Engineering yang adaptif, etika penggunaan AI, serta strategi memaksimalkan kapabilitas Large Language Model (LLM) dan Gemini untuk produktivitas kerja.
 - **AI Praktis untuk Produktivitas:** Mempelajari implementasi bertanggung jawab terhadap alat bantu AI, optimalisasi instruksi (prompt), serta strategi adaptasi teknologi di era digital.
 - **Dasar AI:** Memahami konsep dasar Artificial Intelligence, pemanfaatan data, serta pengantar Machine Learning dan Deep Learning.
 - **Penerapan Data Science dengan Microsoft Fabric:** Menguasai proses data science end-to-end, mulai dari eksplorasi data (Notebook), preprocessing data (Data Wrangler), hingga melatih, melacak (MLflow), dan melakukan deployment model Machine Learning.
@@ -61,7 +61,7 @@ Developer yang memiliki kompetensi kuat dalam pengembangan aplikasi Web (Full-St
 ## SERTIFIKASI
 
 - **Sertifikat Kompetensi Pemrograman Mobile** – Wahidev Academy (No. 020/SERT-WHD/VI/2026)
-- **Sertifikat Kompetensi: Belajar Penggunaan Generative AI** – Dicoding Indonesia (ID: N9ZONYEN6XG5)
+- **Sertifikat Kompetensi: Penggunaan Generative AI** – Dicoding Indonesia (ID: N9ZONYEN6XG5)
 - **Sertifikat Kompetensi: AI Praktis untuk Produktivitas** – Dicoding Indonesia (ID: OLZOY6W93X65)
-- **Sertifikat Kompetensi: Belajar Dasar AI** – Dicoding Indonesia (ID: MEPJO9R7WZ3V)
-- **Sertifikat Kompetensi: Belajar Penerapan Data Science dengan Microsoft Fabric** – Dicoding Indonesia (ID: NVP7NQMOOZRO)
+- **Sertifikat Kompetensi: Dasar AI** – Dicoding Indonesia (ID: MEPJO9R7WZ3V)
+- **Sertifikat Kompetensi: Penerapan Data Science dengan Microsoft Fabric** – Dicoding Indonesia (ID: NVP7NQMOOZRO)
