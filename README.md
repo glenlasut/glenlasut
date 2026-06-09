@@ -42,7 +42,7 @@ Developer yang memiliki kompetensi kuat dalam pengembangan aplikasi Web (Full-St
 
 ### **Wahidev Academy**
 
-**Program Pelatihan Pemrograman Mobile (3 Bulan)** | _Juni 2026_
+**Program Pelatihan Pemrograman Mobile** | _Juni 2026_
 
 - Dinyatakan **KOMPETEN** setelah menyelesaikan tugas akhir berupa pembuatan aplikasi mobile yang fungsional (Referensi: _Wahidev_Sertificate.png_).
 - Menguasai integrasi state management dengan Redux, database backend dengan Supabase dan Laravel, serta manajemen version control menggunakan Git hingga proses deployment.
@@ -51,10 +51,10 @@ Developer yang memiliki kompetensi kuat dalam pengembangan aplikasi Web (Full-St
 
 **Pelatihan Spesialisasi AI & Data Science** | _April 2026_
 
-- **Belajar Penggunaan Generative AI (30 Jam):** Menguasai teknik Prompt Engineering yang adaptif, etika penggunaan AI, serta strategi memaksimalkan kapabilitas Large Language Model (LLM) dan Gemini untuk produktivitas kerja.
-- **AI Praktis untuk Produktivitas (20 Jam):** Mempelajari implementasi bertanggung jawab terhadap alat bantu AI, optimalisasi instruksi (prompt), serta strategi adaptasi teknologi di era digital.
-- **Belajar Dasar AI (10 Jam):** Memahami konsep dasar Artificial Intelligence, pemanfaatan data, serta pengantar Machine Learning dan Deep Learning.
-- **Belajar Penerapan Data Science dengan Microsoft Fabric (6 Jam):** Menguasai proses data science end-to-end, mulai dari eksplorasi data (Notebook), preprocessing data (Data Wrangler), hingga melatih, melacak (MLflow), dan melakukan deployment model Machine Learning.
+- **Belajar Penggunaan Generative AI:** Menguasai teknik Prompt Engineering yang adaptif, etika penggunaan AI, serta strategi memaksimalkan kapabilitas Large Language Model (LLM) dan Gemini untuk produktivitas kerja.
+- **AI Praktis untuk Produktivitas:** Mempelajari implementasi bertanggung jawab terhadap alat bantu AI, optimalisasi instruksi (prompt), serta strategi adaptasi teknologi di era digital.
+- **Dasar AI:** Memahami konsep dasar Artificial Intelligence, pemanfaatan data, serta pengantar Machine Learning dan Deep Learning.
+- **Penerapan Data Science dengan Microsoft Fabric:** Menguasai proses data science end-to-end, mulai dari eksplorasi data (Notebook), preprocessing data (Data Wrangler), hingga melatih, melacak (MLflow), dan melakukan deployment model Machine Learning.
 
 ---
 
